@@ -185,6 +185,3 @@ def plot_clusters_with_circles(d2d_pairs, cellular_users, save_dir: str):
         logger.info("Saved clusters plot as clusters.png")
     except Exception as e:
         logger.error(f"Error plotting clusters: {str(e)}")
-
-
-
