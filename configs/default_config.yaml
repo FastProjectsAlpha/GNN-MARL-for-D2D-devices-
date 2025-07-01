@@ -1,0 +1,30 @@
+environment:
+  area_size: 1000                # meters
+  num_d2d_pairs: 20             # number of D2D pairs
+  num_cellular_users: 5         # number of cellular users
+  num_channels: 10              # available channels
+  max_power: 23                 # dBm
+  noise_power: -174             # dBm/Hz
+  bandwidth: 180000             # Hz per channel
+
+training:
+  episodes: 1000                # total training episodes
+  batch_size: 32                # batch size for experience replay
+  gamma: 0.99                   # discount factor
+  lr: 0.001                     # learning rate
+  epsilon_start: 1.0            # initial exploration rate
+  epsilon_end: 0.01             # final exploration rate
+  epsilon_decay: 0.995          # exploration rate decay
+  target_update_freq: 100       # target network update frequency
+
+gnn:
+  input_dim: 6                  # input feature dimension
+  hidden_dim: 64                # hidden layer dimension
+  output_dim: 32                # output embedding dimension
+  dropout: 0.2                  # dropout rate
+
+logging:
+  log_dir: ./logs               # directory for logging
+  log_level: INFO               # logging level
+  save_model: True              # whether to save trained models
+  model_dir: ./saved_models     # directory for saved models

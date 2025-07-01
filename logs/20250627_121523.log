@@ -1,0 +1,18 @@
+2025-06-27 12:15:23,200 - environment - INFO - D2D Environment initialized successfully
+2025-06-27 12:15:23,358 - models.gnn - INFO - GNN model initialized successfully
+2025-06-27 12:15:23,373 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,373 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,373 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,379 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,380 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,382 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,383 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,385 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,387 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,388 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:15:23,388 - train - INFO - GNN-MARL System initialized successfully
+2025-06-27 12:15:23,388 - __main__ - INFO - Starting evaluation process...
+2025-06-27 12:15:23,388 - evaluate - INFO - Evaluating system for 100 episodes...
+2025-06-27 12:15:42,371 - evaluate - INFO - Evaluation completed successfully
+2025-06-27 12:15:43,098 - utils.visualization - INFO - Saved evaluation plots
+2025-06-27 12:15:43,099 - __main__ - INFO - Application completed successfully

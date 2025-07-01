@@ -1,0 +1,18 @@
+2025-06-24 19:48:06,229 - environment - INFO - D2D Environment initialized successfully
+2025-06-24 19:48:06,243 - models.gnn - INFO - GNN model initialized successfully
+2025-06-24 19:48:06,250 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,251 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,254 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,257 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,263 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,267 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,269 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,273 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,276 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,279 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-24 19:48:06,280 - train - INFO - GNN-MARL System initialized successfully
+2025-06-24 19:48:06,281 - __main__ - INFO - Starting training process...
+2025-06-24 19:48:06,281 - train - INFO - Starting GNN-MARL Training for 1000 episodes
+2025-06-24 19:48:09,109 - train - INFO - Episode    0 | Sum Rate:  29.51 Mbps | Avg SINR:  49.3 dB | Steps: 100 | Epsilon: 0.708
+2025-06-24 19:59:47,615 - train - INFO - Episode  100 | Sum Rate:  44.41 Mbps | Avg SINR:  74.3 dB | Steps: 100 | Epsilon: 0.010
+2025-06-24 20:10:48,615 - train - INFO - Episode  200 | Sum Rate:  22.72 Mbps | Avg SINR:  37.5 dB | Steps: 100 | Epsilon: 0.010

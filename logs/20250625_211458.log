@@ -1,0 +1,29 @@
+2025-06-25 21:14:58,552 - environment - INFO - D2D Environment initialized successfully
+2025-06-25 21:14:58,796 - models.gnn - INFO - GNN model initialized successfully
+2025-06-25 21:14:58,796 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,796 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,796 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,806 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,809 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,827 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,827 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,833 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,835 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,835 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 21:14:58,835 - train - INFO - GNN-MARL System initialized successfully
+2025-06-25 21:14:58,835 - __main__ - INFO - Starting training process...
+2025-06-25 21:14:58,835 - train - INFO - Starting GNN-MARL Training for 500 episodes
+2025-06-25 21:15:01,261 - train - INFO - Episode    0 | Sum Rate:  25.55 Mbps | Avg SINR:  42.7 dB | Steps: 100 | Epsilon: 0.708
+2025-06-25 21:22:13,700 - train - INFO - Episode  100 | Sum Rate:  46.89 Mbps | Avg SINR:  78.4 dB | Steps: 100 | Epsilon: 0.010
+2025-06-26 10:53:03,642 - train - INFO - Episode  200 | Sum Rate:  31.84 Mbps | Avg SINR:  53.2 dB | Steps: 100 | Epsilon: 0.010
+2025-06-26 10:59:21,199 - train - INFO - Episode  300 | Sum Rate:  23.07 Mbps | Avg SINR:  38.4 dB | Steps: 100 | Epsilon: 0.010
+2025-06-26 11:05:21,010 - train - INFO - Episode  400 | Sum Rate:  28.52 Mbps | Avg SINR:  47.4 dB | Steps: 100 | Epsilon: 0.010
+2025-06-26 11:10:43,332 - train - INFO - 
+Training Completed in 50144.5 seconds!
+2025-06-26 11:10:43,398 - train - INFO - Models saved to ./saved_models
+2025-06-26 11:10:44,135 - utils.visualization - INFO - Saved training plots
+2025-06-26 11:10:44,135 - __main__ - INFO - Starting evaluation process...
+2025-06-26 11:10:44,135 - evaluate - INFO - Evaluating system for 100 episodes...
+2025-06-26 11:11:05,595 - evaluate - INFO - Evaluation completed successfully
+2025-06-26 11:11:06,083 - utils.visualization - INFO - Saved evaluation plots
+2025-06-26 11:11:06,084 - __main__ - INFO - Application completed successfully

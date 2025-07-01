@@ -1,0 +1,25 @@
+2025-06-25 19:21:04,472 - environment - INFO - D2D Environment initialized successfully
+2025-06-25 19:21:04,726 - models.gnn - INFO - GNN model initialized successfully
+2025-06-25 19:21:04,738 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,740 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,743 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,743 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,752 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,757 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,761 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,762 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,764 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,767 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 19:21:04,768 - train - INFO - GNN-MARL System initialized successfully
+2025-06-25 19:21:04,768 - __main__ - INFO - Starting training process...
+2025-06-25 19:21:04,768 - train - INFO - Starting GNN-MARL Training for 100 episodes
+2025-06-25 19:21:07,585 - train - INFO - Episode    0 | Sum Rate:  28.27 Mbps | Avg SINR:  47.3 dB | Steps: 100 | Epsilon: 0.708
+2025-06-25 20:53:04,249 - train - INFO - 
+Training Completed in 5519.5 seconds!
+2025-06-25 20:53:04,396 - train - INFO - Models saved to ./saved_models
+2025-06-25 20:53:06,607 - utils.visualization - INFO - Saved training plots
+2025-06-25 20:53:06,607 - __main__ - INFO - Starting evaluation process...
+2025-06-25 20:53:06,607 - evaluate - INFO - Evaluating system for 100 episodes...
+2025-06-25 20:53:59,661 - evaluate - INFO - Evaluation completed successfully
+2025-06-25 20:54:00,184 - utils.visualization - INFO - Saved evaluation plots
+2025-06-25 20:54:00,184 - __main__ - INFO - Application completed successfully

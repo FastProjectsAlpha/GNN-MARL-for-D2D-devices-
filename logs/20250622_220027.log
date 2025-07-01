@@ -1,0 +1,26 @@
+2025-06-22 22:00:27,440 - environment - INFO - D2D Environment initialized successfully
+2025-06-22 22:00:27,455 - models.gnn - INFO - GNN model initialized successfully
+2025-06-22 22:00:27,464 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,475 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,479 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,488 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,500 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,516 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,520 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,522 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,528 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,535 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 22:00:27,535 - train - INFO - GNN-MARL System initialized successfully
+2025-06-22 22:00:27,537 - __main__ - INFO - Starting training process...
+2025-06-22 22:00:27,538 - train - INFO - Starting GNN-MARL Training for 200 episodes
+2025-06-22 22:00:30,365 - train - INFO - Episode    0 | Sum Rate:  25.95 Mbps | Avg SINR:  43.4 dB | Steps: 100 | Epsilon: 0.708
+2025-06-22 22:13:49,096 - train - INFO - Episode  100 | Sum Rate:  43.76 Mbps | Avg SINR:  73.2 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 22:25:13,391 - train - INFO - 
+Training Completed in 1485.9 seconds!
+2025-06-22 22:25:13,453 - train - INFO - Models saved to ./saved_models
+2025-06-22 22:25:14,314 - utils.visualization - INFO - Saved training plots
+2025-06-22 22:25:14,315 - __main__ - INFO - Starting evaluation process...
+2025-06-22 22:25:14,316 - evaluate - INFO - Evaluating system for 100 episodes...
+2025-06-22 22:25:59,329 - evaluate - INFO - Evaluation completed successfully
+2025-06-22 22:26:00,235 - utils.visualization - INFO - Saved evaluation plots
+2025-06-22 22:26:00,236 - __main__ - INFO - Application completed successfully

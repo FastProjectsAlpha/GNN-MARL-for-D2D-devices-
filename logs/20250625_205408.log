@@ -1,0 +1,25 @@
+2025-06-25 20:54:08,122 - environment - INFO - D2D Environment initialized successfully
+2025-06-25 20:54:08,341 - models.gnn - INFO - GNN model initialized successfully
+2025-06-25 20:54:08,341 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,341 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,341 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,352 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,354 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,357 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,357 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,357 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,362 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,362 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-25 20:54:08,366 - train - INFO - GNN-MARL System initialized successfully
+2025-06-25 20:54:08,366 - __main__ - INFO - Starting training process...
+2025-06-25 20:54:08,367 - train - INFO - Starting GNN-MARL Training for 100 episodes
+2025-06-25 20:54:10,756 - train - INFO - Episode    0 | Sum Rate:  31.89 Mbps | Avg SINR:  53.3 dB | Steps: 100 | Epsilon: 0.708
+2025-06-25 20:59:56,724 - train - INFO - 
+Training Completed in 348.4 seconds!
+2025-06-25 20:59:56,779 - train - INFO - Models saved to ./saved_models
+2025-06-25 20:59:57,607 - utils.visualization - INFO - Saved training plots
+2025-06-25 20:59:57,625 - __main__ - INFO - Starting evaluation process...
+2025-06-25 20:59:57,630 - evaluate - INFO - Evaluating system for 100 episodes...
+2025-06-25 21:00:23,439 - evaluate - INFO - Evaluation completed successfully
+2025-06-25 21:00:24,057 - utils.visualization - INFO - Saved evaluation plots
+2025-06-25 21:00:24,057 - __main__ - INFO - Application completed successfully

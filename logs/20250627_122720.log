@@ -1,0 +1,14 @@
+2025-06-27 12:27:20,468 - environment - INFO - D2D Environment initialized successfully
+2025-06-27 12:27:20,630 - models.gnn - INFO - GNN model initialized successfully
+2025-06-27 12:27:20,632 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,633 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,634 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,635 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,636 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,639 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,641 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,642 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,644 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,646 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-27 12:27:20,646 - train - INFO - GNN-MARL System initialized successfully
+2025-06-27 12:27:20,646 - __main__ - INFO - Application completed successfully

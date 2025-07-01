@@ -1,0 +1,29 @@
+2025-06-22 19:48:57,213 - environment - INFO - D2D Environment initialized successfully
+2025-06-22 19:48:57,227 - models.gnn - INFO - GNN model initialized successfully
+2025-06-22 19:48:57,237 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,254 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,258 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,270 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,276 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,297 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,300 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,310 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,314 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,317 - models.dqn_agent - INFO - DQN Agent initialized successfully
+2025-06-22 19:48:57,319 - __main__ - INFO - GNN-MARL System initialized successfully
+2025-06-22 19:48:57,321 - __main__ - INFO - Starting GNN-MARL Training for 1000 episodes
+2025-06-22 19:48:59,920 - __main__ - INFO - Episode    0 | Sum Rate:  32.49 Mbps | Avg SINR:  54.3 dB | Steps: 100 | Epsilon: 0.708
+2025-06-22 19:56:59,863 - __main__ - INFO - Episode  100 | Sum Rate:  46.86 Mbps | Avg SINR:  78.4 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 20:07:32,466 - __main__ - INFO - Episode  200 | Sum Rate:  33.08 Mbps | Avg SINR:  55.3 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 20:20:03,902 - __main__ - INFO - Episode  300 | Sum Rate:  25.51 Mbps | Avg SINR:  42.6 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 20:32:01,808 - __main__ - INFO - Episode  400 | Sum Rate:  26.22 Mbps | Avg SINR:  43.8 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 20:44:26,651 - __main__ - INFO - Episode  500 | Sum Rate:  21.52 Mbps | Avg SINR:  34.7 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 20:54:31,587 - __main__ - INFO - Episode  600 | Sum Rate:  30.53 Mbps | Avg SINR:  51.0 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 21:04:50,328 - __main__ - INFO - Episode  700 | Sum Rate:  31.77 Mbps | Avg SINR:  53.1 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 21:14:28,935 - __main__ - INFO - Episode  800 | Sum Rate:  23.26 Mbps | Avg SINR:  38.9 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 21:25:31,449 - __main__ - INFO - Episode  900 | Sum Rate:  28.51 Mbps | Avg SINR:  47.7 dB | Steps: 100 | Epsilon: 0.010
+2025-06-22 21:40:22,310 - __main__ - INFO - 
+Training Completed in 6685.0 seconds!
+2025-06-22 21:40:22,386 - __main__ - INFO - Models saved to ./saved_models
+2025-06-22 21:40:22,632 - __main__ - INFO - Models saved to ./saved_models
+2025-06-22 21:40:24,391 - utils.visualization - INFO - Saved training plots
